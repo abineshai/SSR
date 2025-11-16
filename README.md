@@ -1,6 +1,6 @@
 # Chaplin
 
-![Chaplin Thumbnail](./thumbnail..png")
+![Chaplin Thumbnail](./thumbnail.png")
 
 Silent Speech Recognition (SSR)
 
