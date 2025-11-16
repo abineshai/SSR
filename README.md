@@ -1,6 +1,6 @@
 # Chaplin
 
-![Chaplin Thumbnail](./thumbnail.png)
+![Chaplin Thumbnail](./"C:\Users\ABINESH S\OneDrive\Pictures\Screenshots\Screenshot 2025-11-14 112442.png")
 
 A visual speech recognition (VSR) tool that reads your lips in real-time and types whatever you silently mouth. Runs fully locally.
 
