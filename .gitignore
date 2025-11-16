@@ -1,0 +1,88 @@
+# -----------------------------
+# Python virtual environment
+# -----------------------------
+venv/
+.env/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.cache/
+*.egg-info/
+*.egg
+build/
+dist/
+
+# -----------------------------
+# OS-specific junk files
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Model files / Checkpoints
+# -----------------------------
+*.pt
+*.pth
+*.ckpt
+models/
+checkpoints/
+
+# -----------------------------
+# Temporary videos & frames
+# -----------------------------
+*.mp4
+*.avi
+*.mov
+*.mkv
+temp_live.mp4
+recordings/
+outputs/
+videos/
+frames/
+
+# -----------------------------
+# Logs & debugging output
+# -----------------------------
+*.log
+*.out
+*.err
+
+# -----------------------------
+# Hydra config-generated files
+# -----------------------------
+multirun/
+outputs/
+hydra/
+# avoid committing auto-generated hydra configs
+**/.hydra/
+
+# -----------------------------
+# Gradio cache & build files
+# -----------------------------
+.gradio/
+__outputs__/
+gradio_cached_examples/
+
+# -----------------------------
+# VSCode workspace files
+# -----------------------------
+.vscode/
+.settings/
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Config backups
+# -----------------------------
+*.bak
+*.old
+
+# -----------------------------
+# Pip dependency lock files (optional)
+# -----------------------------
+pip-wheel-metadata/
