@@ -1,7 +1,3 @@
-# Chaplin
-
-![Chaplin Thumbnail](./thumbnail.png")
-
 Silent Speech Recognition (SSR)
 
 This project converts lip movements into text using deep learning techniques.
@@ -24,5 +20,3 @@ Silent communication
 Noisy environments
 
 Speech-impaired assistance
-
-If you want, I can add a single image or on
