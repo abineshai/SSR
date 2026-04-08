@@ -1,4 +1,4 @@
-# 🎙️ SSR — Real-Time Silent Speech Recognition
+# 🎙️ NoMic AI — SilentSense AI
  
 A real-time lip-reading application that converts **silent lip movements into text** using deep learning — no audio required. Runs fully locally with webcam input.
  
@@ -19,7 +19,7 @@ A real-time lip-reading application that converts **silent lip movements into te
 ## 🏗️ Project Structure
  
 ```
-SSR/
+/NoMicAI
 ├── benchmarks/
 │   └── LRS3/
 │       ├── language_models/
@@ -59,8 +59,8 @@ SSR/
 ### 1. Clone the Repository
  
 ```bash
-git clone https://github.com/abineshai/SSR.git
-cd SSR
+git clone https://github.com/abineshai/NoMicAI.git
+cd NoMicAI
 ```
  
 ---
@@ -206,12 +206,3 @@ Output: Tkinter GUI + Notepad + transcription.txt
  
 ---
  
-## 📚 References
- 
-- Assael et al., "LipNet: End-to-End Sentence-level Lipreading," arXiv 2016
-- Afouras et al., "Deep Lip Reading: A Comparison of Models," Interspeech 2018
-- Assael et al., "Watch, Listen, Attend and Spell," arXiv 2016
-- Afouras et al., "Deep Audio-Visual Speech Recognition," IEEE TPAMI 2020
-- Chung & Zisserman, "Lip Reading in the Wild," ACCV 2016
- 
----
